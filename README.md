@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**EZ7051/EZ7051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez7051&count_private=true&show_icons=true&theme=panda)
+<br>
+<br>
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=ez7051&theme=panda">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/ejaz-ahamed-shaik-617a10144/">LinkedIn</a>
