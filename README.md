@@ -1,4 +1,4 @@
-### Hellooo, I'm Ejaz! 👋
+## Hellooo, I'm Ejaz! 👋
 <!--
 ![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez7051&count_private=true&show_icons=true&theme=panda)
 <br>
@@ -44,4 +44,7 @@
 ![](https://img.shields.io/badge/LLM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
 ![](https://img.shields.io/badge/GenerativeAI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 and more!
+
+
+### **Stay Awesome!**
 
