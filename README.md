@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellooo, I'm Ejaz! 👋
 <!--
 ![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez7051&count_private=true&show_icons=true&theme=panda)
 <br>
