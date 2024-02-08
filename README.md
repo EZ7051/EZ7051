@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+<!--
 ![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez7051&count_private=true&show_icons=true&theme=panda)
 <br>
 <br>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=ez7051&theme=panda">
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
