@@ -17,6 +17,7 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ejaz-ahamed-shaik-617a10144/">LinkedIn</a>
 - 😄 Pronouns: He/Him
+- Checkout my latest project: <a href="https://huggingface.co/spaces/ez7051/LLM_Poet">LangChain Poet</a> on Huggingface space!
 <!--- ⚡ Fun fact: ... -->
 
 ### Creating & learning with:
